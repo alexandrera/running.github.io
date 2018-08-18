@@ -48,7 +48,6 @@ div.shoes {
     border-style: hidden;
     background-color: dimgray;
     color: white;
-    text-emphasis-style: circle;
 }
 
 .listAndVideo {
@@ -65,9 +64,12 @@ div.shoes {
 }
 
 .list {
-    font-size: 19px;
+    font-size: 29px;
+    word-spacing: 4px;
+    text-shadow: 2px 2px gray;
     text-align: left;
     padding: 10%;
+    
 }
 
 .list2 {
