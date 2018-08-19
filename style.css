@@ -14,7 +14,8 @@ h1 {
     background-color: dimgray;
     color: white;
     font-style: oblique;
-    font
+    border-radius: 4px;
+    text-indent: 5%;
 }
 
 h2 {
@@ -22,11 +23,13 @@ h2 {
     background-color: dimgray;
     margin-left: 15px;
     color: white;
+    border-radius: 4px;
 }
 
 img {
     width: 40%;
     height: 40%;
+    border-radius: 4px;
 }
 
 h2.theSport {
@@ -50,6 +53,7 @@ div.shoes {
     border-style: hidden;
     background-color: dimgray;
     color: white;
+    border-radius: 4px;
 }
 
 .listAndVideo {
