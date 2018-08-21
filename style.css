@@ -58,7 +58,7 @@ div.shoes {
 
 .listAndVideo {
     display: flex;
-    
+
 }
 
 .video {
@@ -75,7 +75,7 @@ div.shoes {
     text-shadow: 2px 2px gray;
     text-align: left;
     padding: 10%;
-    
+
 }
 
 .list2 {
@@ -83,4 +83,11 @@ div.shoes {
     margin-left: 20%;
     margin-right: 5%;
 
+}
+
+footer {
+    font-size: 10px;
+    text-align: right;
+    border: 15px;
+    margin: 15px;
 }
